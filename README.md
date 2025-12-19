@@ -28,3 +28,16 @@ git push origin main + (enter)
 "scripts": {"start": "npx @tailwindcss/cli -i ./input.css -o ./output.css --watch"}
 <code>
 7. input.css file paste  @import "tailwindcss";
+
+2. branch create 
+
+-> branch  --> how many  branch in repo 
+-> git branch  <branch name>
+   <enter>
+-> for ex -> git branch  devlopment
+    <enter>
+-> git branch
+    <enter>
+-> git checkout <branch name>
+    <enter>
+-> for ex -> checkout devlopmnet
